@@ -43,6 +43,7 @@ The project documentation and deliverables are available in the following files:
 
 - `Data Analysis and Visualization.pbix`: Power BI file with the visualizations and dashboard.
 - `Presentation.pptx`: PowerPoint presentation summarizing the project findings.
+- Video presentation: https://drive.google.com/file/d/1MUtcdR-y2nTNHljen9DL8P9lrEpd3WM6/view?usp=sharing
 
 Please refer to these files for a detailed analysis and insights.
 
